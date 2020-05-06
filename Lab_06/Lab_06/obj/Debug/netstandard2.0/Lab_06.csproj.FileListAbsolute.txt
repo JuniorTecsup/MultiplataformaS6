@@ -1,0 +1,17 @@
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\bin\Debug\netstandard2.0\Lab_06.deps.json
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\bin\Debug\netstandard2.0\Lab_06.dll
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\bin\Debug\netstandard2.0\ref\Lab_06.dll
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\bin\Debug\netstandard2.0\Lab_06.pdb
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\Lab_06.csprojAssemblyReference.cache
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\ListGroup.xaml.g.cs
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\Lab_06.csproj.CoreCompileInputs.cache
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\Lab_06.AssemblyInfoInputs.cache
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\Lab_06.AssemblyInfo.cs
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\Lab_06.dll
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\ref\Lab_06.dll
+C:\Users\vilchez\source\repos\Lab_06\Lab_06\Lab_06\obj\Debug\netstandard2.0\Lab_06.pdb
